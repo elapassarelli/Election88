@@ -1,0 +1,13 @@
+body {
+background-image: url(https://s22.postimg.org/62q3f02xd/murica.png);
+background-repeat: repeat-x;
+background-size: 300px 130px;
+font-family: sans-serif;
+}
+
+input[type=submit] {
+    width: 6em;  height: 4em;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 10px;
+}
